@@ -1,0 +1,11 @@
+.tabledaysrow { font-weight: bold; }
+.timetableperiodheadings { font-weight: bold; }
+.timetabledatasubject { text-align: center; }
+td { padding: 18px; }
+
+.pdfheadings {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 25px;
+}

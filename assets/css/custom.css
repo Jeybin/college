@@ -1,0 +1,44 @@
+
+/***** Modal ***/
+.modal-content{
+	border-radius: 0px;
+}
+
+.deleteModal {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+ .btncontainer {
+	padding-top: 25px;
+}
+
+/*** icons ***/
+.fa {
+	cursor: pointer;
+	transition: 0.2s ease-in-out;
+}
+.fa-trash:hover{
+	color: #f55;
+}
+.fa-pencil:hover{
+	color: #0177B5;
+}
+
+/** tags **/
+img {
+			height:100%;
+			width:100%;
+			object-fit: cover;
+}
+
+.attendenceicons {
+font-size: 22px;
+	color:#e7e7e7;
+}
+.presentbtn{
+	color: #13943B;
+}
+.absentbtn{
+	color: #ED2026;
+}
